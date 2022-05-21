@@ -44,22 +44,22 @@
 
 #### 使用说明效果图如下：
 ##### 服务启动以及链接数据库
-![img.png](server_start.png)
+![img.png](	https://gitee.com/wang-xiaoze/node-service-template/raw/master/server_start.png)
 
 ##### `apiFox`操作
-![img.png](apiFox_os.png)
+![img.png](https://gitee.com/wang-xiaoze/node-service-template/raw/master/apiFox_os.png)
 
 ##### 运行之后，查看回调
 > 首次添加
 > 
-![img.png](apiFox_success.png)
+![img.png](https://gitee.com/wang-xiaoze/node-service-template/raw/master/apiFox_success.png)
 > 
 > 第二次一样的账号密码添加
 > 
-![img.png](apiFox_error.png)
+![img.png](	https://gitee.com/wang-xiaoze/node-service-template/raw/master/apiFox_error.png)
 
 ##### 数据库命令查询结果
-![img.png](db_findData.png)
+![img.png](https://gitee.com/wang-xiaoze/node-service-template/raw/master/db_findData.png)
 
 #### 参与贡献
 1.  创建代码仓库
