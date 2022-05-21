@@ -1,0 +1,25 @@
+{
+  "name": "service-template",
+  "version": "1.0.0",
+  "description": "NodeJs基于Express框架打造简单的Api请求接口，链接MongoDb实现基本的增删改查业务逻辑。是一个入门级的小项目；",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mime-types": "^2.1.35"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/wang-xiaoze/node-service-template.git"
+  },
+  "keywords": [
+    "Api",
+    "MongoDb"
+  ],
+  "author": "王小泽 wangxiaoze@petalmail.com",
+  "license": "MIT"
+}
